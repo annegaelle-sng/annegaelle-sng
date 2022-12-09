@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I am Anne-Gaëlle 👋👩🏾‍💻
 
+I'm a data analyst/scientist who is passionate about creating values from data and revealing stories behind numbers. Some technologies I enjoy working with include Python, R, SQL, and BI tools (Tableau/Power Bi). 
+
+In my spare time I sometimes put on my front end developer and designer cape and I have fun building interfaces in ReactJs or in the classic HTML, Css, Javascript. 
+
+How to reach me: anne-gaelle.songeons@bsb-education.com
+
+Pronouns: She/Her 
+ 
 <!--
 **annegaelle-sng/annegaelle-sng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
