@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/annegaelle-sng/annegaelle-sng/blob/e4560541c381ce43292e65da6b07a4268b73b894/Hi,%20I%20am%20Anne-Gaelle.png" alt="banner that says  Hi, I am Anne-Gaelle">
-</div>  
+![Hi, I am Anne-Gaelle-2](https://user-images.githubusercontent.com/65827751/217811524-7617cbce-b6bf-4cc6-931c-c9f19c222c1e.png)
+
+</div>
   
 
 ### <div align="center">I'm Anne-Gaëlle, a data analyst/scientist who is passionate about creating values from data and revealing stories behind numbers.</div>  
@@ -80,9 +81,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=annegaelle-sng&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
