@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/annegaelle-sng/annegaelle-sng/blob/e4560541c381ce43292e65da6b07a4268b73b894/Hi,%20I%20am%20Anne-Gaelle.png" alt="banner that says  Hi, I am Anne-Gaelle">
+<img src="https://github.com/annegaelle-sng/annegaelle-sng/blob/4cea05ccfbb8dfe72cecc60db14f3a79988cb829/Hi,%20I%20am%20Anne-Gaelle.png">
 </div>
   
 
